@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Mar 14 20:58:20 2020
+# Process ID: 2350
+# Current directory: /home/lixuanyi/int_cir_comp/freedom
+# Command line: vivado
+# Log file: /home/lixuanyi/int_cir_comp/freedom/vivado.log
+# Journal file: /home/lixuanyi/int_cir_comp/freedom/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project /home/lixuanyi/int_cir_comp/vivado-proj/E310/E310.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
